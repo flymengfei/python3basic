@@ -10,5 +10,3 @@
 
 'hello world'[0:5]
 'hello world'[0:-1]  # 步长
-
-
